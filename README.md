@@ -1,4 +1,4 @@
-# Representation Potentials of Foundation Models for Multimodal Alignment: A Survey
+# Representation Potentials of Foundation Models for Multimodal Alignment: A Survey (EMNLP25)
 
 
 [![Awesome Representation Alignment](https://awesome.re/badge.svg)](https://awesome.re)
