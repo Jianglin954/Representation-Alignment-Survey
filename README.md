@@ -1,8 +1,8 @@
-# Awesome papers in the fields of computer vision, machine learning, pattern recognition, data mining, and natural language processing.
+# Representation Potentials of Foundation Models for Multimodal Alignment: A Survey
 
 
 [![Awesome Representation Alignment](https://awesome.re/badge.svg)](https://awesome.re)
-![Paper Reading](https://img.shields.io/badge/Representation_Alignment-blue)
+![Paper Reading](https://img.shields.io/badge/Multimodal_Alignment-blue)
 
 This is the repository for the survery paper: [Representation Potentials of Foundation Models for Multimodal Alignment: A Survey](). The collection will be continuously updated, so star (🌟) & stay tuned. Any suggestions and comments are welcome (jianglinlu@outlook.com). 
 
@@ -78,7 +78,7 @@ Notes: This is a classical paper that proposes **Isometric Feature Mapping (ISOM
 
 <a name="ALME" />
 
-## Alignment Metrics
+## Alignment Metrics [[Back to Top]](#)
 
 
 
@@ -104,7 +104,7 @@ Notes: This is a classical paper that proposes **Isometric Feature Mapping (ISOM
 
 <a name="RCSM" />
 
-## Representation Convergence within Single-Modality
+## Representation Convergence within Single-Modality [[Back to Top]](#)
 
 
 
@@ -129,19 +129,19 @@ Notes: This is a classical paper that proposes **Isometric Feature Mapping (ISOM
 
 <a name="RCAM" />
 
-### Representation Convergence within Across-Modalities
+## Representation Convergence within Across-Modalities
 
 
 
 <a name="RCBS" />
 
-### Representation Convergence in Biological Systems
+## Representation Convergence in Biological Systems
 
 
 
 <a name="OpenQ" />
 
-### Open Questions
+## Open Questions
 
 
 
