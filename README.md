@@ -7,6 +7,7 @@
 This is the repository for the survery paper: [Representation Potentials of Foundation Models for Multimodal Alignment: A Survey](). The collection will be continuously updated, so star (🌟) & stay tuned. Any suggestions and comments are welcome (jianglinlu@outlook.com). 
 
 
+
 ## Contents
 - [Foundation Models](#FM)
   - [Large Language Models](#LLMs)
