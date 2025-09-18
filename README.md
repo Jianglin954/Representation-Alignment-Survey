@@ -10,8 +10,8 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 
 ## Contents
 - [Foundation Models](#FM)
+  - [Vision Foundation Models](#VFMs)
   - [Large Language Models](#LLMs)
-  - [Vision Foundation Models](#VFMs) 
   - [Speech Foundation Models](#SFMs)
   - [Multimodal Foundation Models](#MFMs)
 - [Alignment Metrics](#ALME)
@@ -32,7 +32,31 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 
 ## Foundation Models [[Back to Top]](#)
 
-1. ****
+1. **On the Opportunities and Risks of Foundation Models** *Rishi Bommasani et al, arXiv 2022.* [[PDF]](https://arxiv.org/pdf/2108.07258)
+
+
+
+
+<a name="VFMs" />
+
+### Vision Foundation Models
+
+
+1. **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale** *Alexey Dosovitskiy et al, ICLR 2021.*  [[PDF]](https://arxiv.org/pdf/2010.11929/1000)
+
+1. **A ConvNet for the 2020s** *Zhuang Liu et al, CVPR 2022.*  [[PDF]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_A_ConvNet_for_the_2020s_CVPR_2022_paper.pdf) 
+
+1. **ConvNeXt V2: Co-Designing and Scaling ConvNets With Masked Autoencoders** *Sanghyun Woo et al, CVPR 2023.*  [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/papers/Woo_ConvNeXt_V2_Co-Designing_and_Scaling_ConvNets_With_Masked_Autoencoders_CVPR_2023_paper.pdf) 
+
+1. **DINOv2: Learning Robust Visual Features without Supervision** *Maxime Oquab et al, arXiv 2024.*  [[PDF]](https://arxiv.org/pdf/2304.07193) 
+
+1. **DINOv3.** *Oriane Siméoni et al, arXiv 2025.*  [[PDF]](https://arxiv.org/pdf/2508.10104) 
+
+1. **Segment Anything** *Alexander Kirillov et al, ICCV 2023.*  [[PDF]](https://arxiv.org/pdf/2304.02643) 
+
+1. **Updating....** * et al, .*  [[PDF]]() 
+
+
 
 
 <a name="LLMs" />
@@ -43,16 +67,6 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 Notes: This is a classical paper that proposes **Isometric Feature Mapping (ISOMAP)** for nonlinear dimensionality reduction, which contains three step including neighborhood graph construction, shortest paths computing, and low-dimensional embedding.
 
 1. **Updating....** * et al, .*  [[PDF]]() [[Author]]()
-
-
-
-<a name="VFMs" />
-
-### Vision Foundation Models
-
-
-1. **Updating....** * et al, .*  [[PDF]]() [[Author]]()
-
 
 
 
@@ -75,7 +89,7 @@ Notes: This is a classical paper that proposes **Isometric Feature Mapping (ISOM
 
 ### Multimodal Foundation Models
 
-
+1. **Updating....** * et al, .*  [[PDF]]() 
 
 
 <a name="ALME" />
@@ -83,7 +97,7 @@ Notes: This is a classical paper that proposes **Isometric Feature Mapping (ISOM
 ## Alignment Metrics [[Back to Top]](#)
 
 
-
+1. **Updating....** * et al, .*  [[PDF]]() 
 
 <a name="CKA" />
 
@@ -108,45 +122,45 @@ Notes: This is a classical paper that proposes **Isometric Feature Mapping (ISOM
 
 ## Representation Convergence within Single-Modality [[Back to Top]](#)
 
-
+1. **Updating....** * et al, .*  [[PDF]]() 
 
 <a name="RCSMV" />
 
 ### Vision
 
-
+1. **Updating....** * et al, .*  [[PDF]]() 
 
 
 <a name="RCSML" />
 
 ### Language
 
-
+1. **Updating....** * et al, .*  [[PDF]]() 
 
 <a name="RCSMS" />
 
 ### Speech
 
-
+1. **Updating....** * et al, .*  [[PDF]]() 
 
 <a name="RCAM" />
 
 ## Representation Convergence within Across-Modalities [[Back to Top]](#)
 
-
+1. **Updating....** * et al, .*  [[PDF]]() 
 
 <a name="RCBS" />
 
 ## Representation Convergence in Biological Systems [[Back to Top]](#)
 
-
+1. **Updating....** * et al, .*  [[PDF]]() 
 
 <a name="OpenQ" />
 
 ## Open Questions [[Back to Top]](#)
 
 
-
+1. **Updating....** * et al, .*  [[PDF]]() 
 
 
 
