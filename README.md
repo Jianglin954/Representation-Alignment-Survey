@@ -209,28 +209,54 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 
 ### Language
 
-1. **Updating.** * et al, .*  [[PDF]]() 
+1. **Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers.** *Jason Phang et al, arXiv 2021.*  [[PDF]](https://aclanthology.org/2021.blackboxnlp-1.42.pdf) 
 
-1. **Updating.** * et al, .*  [[PDF]]() 
+1. **Tracing Representation Progression: Analyzing and Enhancing Layer-Wise Similarity.** *Jiachen Jiang et al, ICLR 2025.*  [[PDF]](https://openreview.net/pdf?id=vVxeFSR4fU) 
 
-1. **Updating.** * et al, .*  [[PDF]]() 
+1. **The Linear Representation Hypothesis and the Geometry of Large Language Models.** *Kiho Park et al, ICML 2024.*  [[PDF]](https://arxiv.org/pdf/2311.03658) 
 
-1. **Updating.** * et al, .*  [[PDF]]() 
+1. **Quantifying Feature Space Universality Across Large Language Models via Sparse Autoencoders.** *Michael Lan et al, arXiv 2024.*  [[PDF]](https://arxiv.org/pdf/2410.06981) 
 
-1. **Updating.** * et al, .*  [[PDF]]() 
+1. **Truth is Universal: Robust Detection of Lies in LLMs.** *Lennart Bürger et al, NeurIPS 2024.*  [[PDF]](https://arxiv.org/pdf/2407.12831) 
 
-1. **Updating.** * et al, .*  [[PDF]]() 
+1. **Analyzing the Generalization and Reliability of Steering Vectors.** *Daniel Tan et al, NeurIPS 2024.*  [[PDF]](https://arxiv.org/pdf/2407.12404) 
+
+1. **Cross-lingual Similarity of Multilingual Representations Revisited.** *Maksym Del et al, arXiv 2022.*  [[PDF]](https://arxiv.org/pdf/2212.01924) 
+
+1. **Universal Neurons in GPT2 Language Models.** *Wes Gurnee et al, arXiv 2024.*  [[PDF]](https://arxiv.org/pdf/2401.12181) 
+
+1. **Activation Space Interventions Can Be Transferred Between Large Language Models.** *Narmeen Oozeer et al, ICML 2025.*  [[PDF]](https://arxiv.org/pdf/2503.04429) 
+
+1. **Transferring Features Across Language Models With Model Stitching.** *Alan Chen et al, arXiv 2025.*  [[PDF]](https://www.arxiv.org/pdf/2506.06609) 
+
+1. **Update Your Transformer to the Latest Release: Re-Basin of Task Vectors.** *Filippo Rinaldi et al, ICML 2025.*  [[PDF]](https://arxiv.org/pdf/2505.22697) 
+
+1. **Shared Global and Local Geometry of Language Model Embeddings.** *Andrew Lee et al, COLM 2025.*  [[PDF]](https://arxiv.org/pdf/2503.21073) 
+
+1. **Towards Universality: Studying Mechanistic Similarity Across Language Model Architectures.** *Junxuan Wang et al, ICLR 2025.*  [[PDF]](https://openreview.net/pdf?id=2J18i8T0oI) 
+
+1. **Emergence of a High-Dimensional Abstraction Phase in Language Transformers.** *Emily Cheng et al, ICLR 2025.*  [[PDF]](https://openreview.net/pdf?id=0fD3iIBhlV) 
+
 
 
 <a name="RCSMS" />
 
 ### Speech
 
-1. **Updating.** * et al, .*  [[PDF]]() 
+1. **Insights on Neural Representations for End-to-End Speech Recognition.** *Anna Ollerenshaw et al, Interspeech 2021.*  [[PDF]](https://arxiv.org/pdf/2205.09456) 
 
-1. **Updating.** * et al, .*  [[PDF]]() 
+1. **Similarity Analysis of Self-Supervised Speech Representations.** *Yu-An Chung et al, ICASSP 2021.*  [[PDF]](https://arxiv.org/pdf/2010.11481) 
 
-1. **Updating.** * et al, .*  [[PDF]]() 
+1. **Comparative Layer-Wise Analysis of Self-Supervised Speech Models.** *Ankita Pasad et al, ICASSP 2023.*  [[PDF]](https://arxiv.org/pdf/2211.03929) 
+
+1. **What Do Self-Supervised Speech Models Know About Words?.** *Ankita Pasad et al, arXiv 2024.*  [[PDF]](https://arxiv.org/pdf/2307.00162) 
+
+1. **What Do Speech Foundation Models Not Learn About Speech?** *Abdul Waheed et al, arXiv 2024.*  [[PDF]](https://arxiv.org/pdf/2410.12948) 
+
+1. **How Redundant Is the Transformer Stack in Speech Representation Models?** *Teresa Dorszewski et al, ICASSP 2025.*  [[PDF]](https://arxiv.org/pdf/2409.16302) 
+
+1. **Iterative refinement, not training objective, makes HuBERT behave differently from wav2vec 2.0.** *Robin Huo et al, Interspeech 2025.*  [[PDF]](https://arxiv.org/pdf/2508.08110) 
+
 
 
 <a name="RCAM" />
@@ -243,6 +269,11 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 
 1. **Updating.** * et al, .*  [[PDF]]() 
 
+1. **Updating.** * et al, .*  [[PDF]]() 
+
+1. **Updating.** * et al, .*  [[PDF]]() 
+
+1. **Updating.** * et al, .*  [[PDF]]() 
 
 <a name="RCBS" />
 
@@ -254,6 +285,9 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 
 1. **Updating.** * et al, .*  [[PDF]]() 
 
+1. **Updating.** * et al, .*  [[PDF]]() 
+
+1. **Updating.** * et al, .*  [[PDF]]() 
 
 <a name="OpenQ" />
 
