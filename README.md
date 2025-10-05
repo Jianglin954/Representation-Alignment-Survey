@@ -263,17 +263,21 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 
 ## Representation Convergence within Across-Modalities [[Back to Top]](#)
 
-1. **Updating.** * et al, .*  [[PDF]]() 
+1. **Linearly Mapping from Image to Text Space.** *Jack Merullo et al, ICLR 2023.*  [[PDF]](https://arxiv.org/pdf/2209.15162) 
 
-1. **Updating.** * et al, .*  [[PDF]]() 
+1. **Grounding Language Models to Images for Multimodal Inputs and Outputs.** *Jing Yu Koh et al, ICML 2023.*  [[PDF]](https://arxiv.org/pdf/2301.13823) 
 
-1. **Updating.** * et al, .*  [[PDF]]() 
+1. **Do Vision and Language Encoders Represent the World Similarly?** *Mayug Maniparambil et al, CVPR 2024.*  [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Maniparambil_Do_Vision_and_Language_Encoders_Represent_the_World_Similarly_CVPR_2024_paper.pdf) 
 
-1. **Updating.** * et al, .*  [[PDF]]() 
+1. **What Do Language Models Hear? Probing for Auditory Representations in Language Models.** *Jerry Ngo et al, ACL 2024.*  [[PDF]](https://arxiv.org/pdf/2402.16998) 
 
-1. **Updating.** * et al, .*  [[PDF]]() 
+1. **How do Multimodal Foundation Models Encode Text and Speech? An Analysis of Cross-Lingual and Cross-Modal Representations.** *Hyunji Lee et al, arXiv 2024.*  [[PDF]](https://arxiv.org/pdf/2411.17666) 
 
-1. **Updating.** * et al, .*  [[PDF]]() 
+1. **The Platonic Representation Hypothesis.** *Minyoung Huh et al, ICML 2024.*  [[PDF]](https://arxiv.org/pdf/2405.07987) 
+
+1. **Assessing and Learning Alignment of Unimodal Vision and Language Models.** *Le Zhang et al, CVPR 2025.*  [[PDF]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Assessing_and_Learning_Alignment_of_Unimodal_Vision_and_Language_Models_CVPR_2025_paper.pdf) 
+
+
 
 <a name="RCBS" />
 
@@ -282,6 +286,13 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 1. **Updating.** * et al, .*  [[PDF]]() 
 
 1. **Updating.** * et al, .*  [[PDF]]() 
+
+1. **Updating.** * et al, .*  [[PDF]]() 
+
+1. **Updating.** * et al, .*  [[PDF]]() 
+
+1. **Updating.** * et al, .*  [[PDF]]() 
+
 
 1. **Updating.** * et al, .*  [[PDF]]() 
 
