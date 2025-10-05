@@ -15,9 +15,6 @@ This is the repository for the survery paper: [Representation Potentials of Foun
   - [Speech Foundation Models](#SFMs)
   - [Multimodal Foundation Models](#MFMs)
 - [Alignment Metrics](#ALME)
-  - [Centered Kernel Alignment](#CKA)
-  - [Canonical Correlation Analysis](#CCA)
-  - [Mutual Nearest Neighbors](#MNN)
 - [Representation Convergence within Single-Modality](#RCSM)
   - [Vision](#RCSMV)
   - [Language](#RCSML)
@@ -108,32 +105,18 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 
 1. **Blip: Bootstrapping language-image pretraining for unified vision-language understanding and generation.** *Junnan Li et al, ICML 2022.*  [[PDF]](https://arxiv.org/pdf/2201.12086) 
 
-
 1. **Coca: Contrastive captioners are image-text foundation models.** *Jiahui Yu et al, arXiv 2022.*  [[PDF]](https://arxiv.org/pdf/2205.01917) 
-
-
 
 1. **Flamingo: a visual language model for few-shot learning.** *Jean-Baptiste Alayrac et al, NeurIPS 2022.*  [[PDF]](https://arxiv.org/pdf/2204.14198) 
 
-1. **Updating....** * et al, .*  [[PDF]]() 
+1. **PaLI: A Jointly-Scaled Multilingual Language-Image Model.** *Xi Chen et al, ICLR 2023.*  [[PDF]](https://arxiv.org/pdf/2209.06794) 
 
-1. **Updating....** * et al, .*  [[PDF]]() 
+1. **GPT-4 Technical Report.** *OpenAI, arXiv 2023.*  [[PDF]](https://arxiv.org/pdf/2303.08774) 
 
-1. **Updating....** * et al, .*  [[PDF]]() 
+1. **Gemini: A Family of Highly Capable Multimodal Models.** *Gemini Team, arXiv 2023.*  [[PDF]](https://arxiv.org/pdf/2312.11805) 
 
-1. **Updating....** * et al, .*  [[PDF]]() 
+1. **A Survey on Multimodal Large Language Models.** *Shukang Yin et al, National Science Review 2024.*  [[PDF]](https://arxiv.org/pdf/2306.13549) 
 
-1. **Updating....** * et al, .*  [[PDF]]() 
-
-1. **Updating....** * et al, .*  [[PDF]]() 
-
-1. **Updating....** * et al, .*  [[PDF]]() 
-
-1. **Updating....** * et al, .*  [[PDF]]() 
-
-1. **Updating....** * et al, .*  [[PDF]]() 
-
-1. **Updating....** * et al, .*  [[PDF]]() 
 
 
 <a name="ALME" />
@@ -141,24 +124,34 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 ## Alignment Metrics [[Back to Top]](#)
 
 
+1. **Supervised Feature Selection via Dependence Estimation.** *Le Song et al, ICML 2007.*  [[PDF]](https://arxiv.org/pdf/0704.2668) 
+
+1. **SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability.** *Maithra Raghu et al, NIPS 2017.*  [[PDF]](https://arxiv.org/pdf/1706.05806) 
+
+1. **Representational models: A common framework for understanding encoding, pattern-component, and representational-similarity analysis.** *Jörn Diedrichsen et al, PLoS computational biology 2017.*  [[PDF]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005508) 
+
+1. **Insights on Representational Similarity in Neural Networks with Canonical Correlation.** *Ari S. Morcos et al, NeurIPS 2018.*  [[PDF]](https://dl.acm.org/doi/pdf/10.5555/3327345.3327475) 
+
+1. **Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors.** *Laleh Haghverdi et al, Nature Biotechnology 2018.*  [[PDF]](https://www.nature.com/articles/nbt.4091.pdf) 
+
+1. **Similarity of Neural Network Representations Revisited** *Simon Kornblith. et al, ICML 2019.*  [[PDF]](https://proceedings.mlr.press/v97/kornblith19a/kornblith19a.pdf) 
+
+1. **On the Cross-lingual Transferability of Monolingual Representations.**Mikel Artetxe * et al, ACL 2020.*  [[PDF]](https://arxiv.org/pdf/1910.11856) 
+
+1. **Do Wide and Deep Networks Learn the Same Things? Uncovering How Neural Network Representations Vary with Width and Depth.** *Thao Nguyen et al, ICLR 2021.*  [[PDF]](https://openreview.net/pdf?id=KJNcAkY8tY4) 
+
+1. **Using distance on the Riemannian manifold to compare representations in brain and in models.** *Mahdiyar Shahbazi et al, NeuroImage 2021.*  [[PDF]](https://www.sciencedirect.com/science/article/pii/S1053811921005474) 
+
+1. **Reliability of CKA as a Similarity Measure in Deep Learning.** *MohammadReza Davari et al, ICLR 2023.*  [[PDF]](https://openreview.net/pdf?id=8HRvyxc606) 
+
+
 1. **Updating....** * et al, .*  [[PDF]]() 
 
-<a name="CKA" />
+1. **Updating....** * et al, .*  [[PDF]]() 
 
-### Centered Kernel Alignment
+1. **Updating....** * et al, .*  [[PDF]]() 
 
-
-
-<a name="CCA" />
-
-### Canonical Correlation Analysis
-
-
-
-
-<a name="MNN" />
-
-### Mutual Nearest Neighbors
+1. **Updating....** * et al, .*  [[PDF]]() 
 
 
 
@@ -171,6 +164,18 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 <a name="RCSMV" />
 
 ### Vision
+
+1. **Updating....** * et al, .*  [[PDF]]() 
+
+
+
+1. **Updating....** * et al, .*  [[PDF]]() 
+
+1. **Updating....** * et al, .*  [[PDF]]() 
+
+1. **Updating....** * et al, .*  [[PDF]]() 
+
+1. **Updating....** * et al, .*  [[PDF]]() 
 
 1. **Updating....** * et al, .*  [[PDF]]() 
 
