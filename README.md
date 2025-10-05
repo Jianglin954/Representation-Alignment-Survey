@@ -341,6 +341,7 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 ## 📝 Citation
 
 If you find our survey useful, please consider citing:
+
 '''
     @inproceedings{
       lu2025representations,
