@@ -283,20 +283,19 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 
 ## Representation Convergence in Biological Systems [[Back to Top]](#)
 
-1. **Updating.** * et al, .*  [[PDF]]() 
+1. **Evaluation of the Hierarchical Correspondence between the Human Brain and Artificial Neural Networks: A Review.** *Trung Quang Pham et al, Biology, 2023.*  [[PDF]](https://www.mdpi.com/2079-7737/12/10/1330) 
 
-1. **Updating.** * et al, .*  [[PDF]]() 
+1. **Do Self-Supervised Speech and Language Models Extract Similar Representations as Human Brain?.** *Peili Chen et al, ICASSP, 2024.*  [[PDF]](https://arxiv.org/pdf/2310.04645) 
 
-1. **Updating.** * et al, .*  [[PDF]]() 
+1. **Privileged representational axes in biological and artificial neural networks.** *Meenakshi Khosla et al, bioRxiv, 2024.*  [[PDF]](https://www.biorxiv.org/content/10.1101/2024.06.20.599957v1.abstract) 
 
-1. **Updating.** * et al, .*  [[PDF]]() 
+1. **Universality of representation in biological and artificial neural networks.** *Eghbal Hosseini et al, bioRxiv 2024 .*  [[PDF]](https://www.biorxiv.org/content/10.1101/2024.12.26.629294v1.full.pdf) 
 
-1. **Updating.** * et al, .*  [[PDF]]() 
+1. **High-level visual representations in the human brain are aligned with large language models.** *Adrien Doerig et al, Nature Machine Intelligence 2025.*  [[PDF]](https://www.nature.com/articles/s42256-025-01072-0.pdf) 
 
+1. **Disentangling the Factors of Convergence between Brains and Computer Vision Models.** *Joséphine Raugel et al, arXiv 2025.*  [[PDF]](https://arxiv.org/pdf/2508.18226) 
 
-1. **Updating.** * et al, .*  [[PDF]]() 
-
-1. **Updating.** * et al, .*  [[PDF]]() 
+1. **Brain-Model Evaluations Need the NeuroAI Turing Test.** *Jenelle Feather et al, arXiv 2025.*  [[PDF]](https://arxiv.org/pdf/2502.16238) 
 
 1. **Updating.** * et al, .*  [[PDF]]() 
 
