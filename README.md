@@ -331,6 +331,7 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 1. **Relational reasoning and inductive bias in transformers trained on a transitive inference task.** *Jesse Geerts et al, arXiv 2025.*  [[PDF]](https://www.arxiv.org/pdf/2506.04289) 
 
 
+
 1. **Updating.** * et al, .*  [[PDF]]() 
 
 
@@ -341,14 +342,13 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 ## 📝 Citation
 
 If you find our survey useful, please consider citing:
+``` bib file
+@inproceedings{lu2025representations,
+  title={Representation Potentials of Foundation Models for Multimodal Alignment: A Survey},
+  author={Lu, Jianglin and Wang, Hailing and Xu, Yi and Wang, Yizhou and Yang, Kuo and Fu, Yun},
+  booktitle={Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing, {EMNLP} 2025},
+  publisher={Association for Computational Linguistics},
+  year={2025}
+}
+```
 
-'''
-    @inproceedings{
-      lu2025representations,
-      title={Representation Potentials of Foundation Models for Multimodal Alignment: A Survey},
-      author={Lu, Jianglin and Wang, Hailing and Xu, Yi and Wang, Yizhou and Yang, Kuo and Fu, Yun},
-      booktitle={Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing, {EMNLP} 2025},
-      publisher={Association for Computational Linguistics},
-      year={2025}
-    }
-'''
