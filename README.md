@@ -106,9 +106,35 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 
 1. **Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision** *Chao Jia et al, ICML 2021.*  [[PDF]](https://arxiv.org/pdf/2102.05918) 
 
+1. **Blip: Bootstrapping language-image pretraining for unified vision-language understanding and generation.** *Junnan Li et al, ICML 2022.*  [[PDF]](https://arxiv.org/pdf/2201.12086) 
+
+
+1. **Coca: Contrastive captioners are image-text foundation models.** *Jiahui Yu et al, arXiv 2022.*  [[PDF]](https://arxiv.org/pdf/2205.01917) 
+
+
+
+1. **Flamingo: a visual language model for few-shot learning.** *Jean-Baptiste Alayrac et al, NeurIPS 2022.*  [[PDF]](https://arxiv.org/pdf/2204.14198) 
+
 1. **Updating....** * et al, .*  [[PDF]]() 
 
 1. **Updating....** * et al, .*  [[PDF]]() 
+
+1. **Updating....** * et al, .*  [[PDF]]() 
+
+1. **Updating....** * et al, .*  [[PDF]]() 
+
+1. **Updating....** * et al, .*  [[PDF]]() 
+
+1. **Updating....** * et al, .*  [[PDF]]() 
+
+1. **Updating....** * et al, .*  [[PDF]]() 
+
+1. **Updating....** * et al, .*  [[PDF]]() 
+
+1. **Updating....** * et al, .*  [[PDF]]() 
+
+1. **Updating....** * et al, .*  [[PDF]]() 
+
 
 <a name="ALME" />
 
