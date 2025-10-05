@@ -138,20 +138,15 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 
 1. **On the Cross-lingual Transferability of Monolingual Representations.**Mikel Artetxe * et al, ACL 2020.*  [[PDF]](https://arxiv.org/pdf/1910.11856) 
 
+1. **Towards Understanding the Instability of Network Embedding.** *Chenxu Wang et al, TKDE 2020.*  [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9076342) 
+
 1. **Do Wide and Deep Networks Learn the Same Things? Uncovering How Neural Network Representations Vary with Width and Depth.** *Thao Nguyen et al, ICLR 2021.*  [[PDF]](https://openreview.net/pdf?id=KJNcAkY8tY4) 
 
 1. **Using distance on the Riemannian manifold to compare representations in brain and in models.** *Mahdiyar Shahbazi et al, NeuroImage 2021.*  [[PDF]](https://www.sciencedirect.com/science/article/pii/S1053811921005474) 
 
 1. **Reliability of CKA as a Similarity Measure in Deep Learning.** *MohammadReza Davari et al, ICLR 2023.*  [[PDF]](https://openreview.net/pdf?id=8HRvyxc606) 
 
-
-1. **Updating....** * et al, .*  [[PDF]]() 
-
-1. **Updating....** * et al, .*  [[PDF]]() 
-
-1. **Updating....** * et al, .*  [[PDF]]() 
-
-1. **Updating....** * et al, .*  [[PDF]]() 
+1. **Similarity of Neural Network Models: A Survey of Functional and Representational Measures.** *Max Klabunde et al, arXiv 2025.*  [[PDF]](https://arxiv.org/pdf/2305.06329) 
 
 
 
@@ -159,7 +154,6 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 
 ## Representation Convergence within Single-Modality [[Back to Top]](#)
 
-1. **Updating....** * et al, .*  [[PDF]]() 
 
 <a name="RCSMV" />
 
@@ -167,7 +161,11 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 
 1. **Updating....** * et al, .*  [[PDF]]() 
 
+1. **Updating....** * et al, .*  [[PDF]]() 
 
+1. **Updating....** * et al, .*  [[PDF]]() 
+
+1. **Updating....** * et al, .*  [[PDF]]() 
 
 1. **Updating....** * et al, .*  [[PDF]]() 
 
