@@ -341,6 +341,7 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 ## 📝 Citation
 
 If you find our survey useful, please consider citing:
+'''
     @inproceedings{
       lu2025representations,
       title={Representation Potentials of Foundation Models for Multimodal Alignment: A Survey},
@@ -349,3 +350,4 @@ If you find our survey useful, please consider citing:
       publisher={Association for Computational Linguistics},
       year={2025}
     }
+'''
