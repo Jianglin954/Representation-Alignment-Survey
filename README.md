@@ -136,7 +136,7 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 
 1. **Similarity of Neural Network Representations Revisited** *Simon Kornblith. et al, ICML 2019.*  [[PDF]](https://proceedings.mlr.press/v97/kornblith19a/kornblith19a.pdf) 
 
-1. **On the Cross-lingual Transferability of Monolingual Representations.**Mikel Artetxe * et al, ACL 2020.*  [[PDF]](https://arxiv.org/pdf/1910.11856) 
+1. **On the Cross-lingual Transferability of Monolingual Representations.** *Mikel Artetxe et al, ACL 2020.*  [[PDF]](https://arxiv.org/pdf/1910.11856) 
 
 1. **Towards Understanding the Instability of Network Embedding.** *Chenxu Wang et al, TKDE 2020.*  [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9076342) 
 
@@ -159,48 +159,101 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 
 ### Vision
 
-1. **Updating....** * et al, .*  [[PDF]]() 
+1. **Understanding Image Representations by Measuring Their Equivariance and Equivalence.** *Karel Lenc et al, CVPR 2015.*  [[PDF]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Lenc_Understanding_Image_Representations_2015_CVPR_paper.pdf) 
 
-1. **Updating....** * et al, .*  [[PDF]]() 
+1. **Convergent Learning: Do different neural networks learn the same representations?** *Yixuan Li et al, ICLR 2016.*  [[PDF]](https://arxiv.org/pdf/1511.07543) 
 
-1. **Updating....** * et al, .*  [[PDF]]() 
+1. **SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability.** *Maithra Raghu et al, NIPS 2017.*  [[PDF]](https://arxiv.org/pdf/1706.05806) 
 
-1. **Updating....** * et al, .*  [[PDF]]() 
+1. **A Spline Theory of Deep Learning.** *Randall Balestriero et al, ICML 2018.*  [[PDF]](https://proceedings.mlr.press/v80/balestriero18b/balestriero18b.pdf) 
 
-1. **Updating....** * et al, .*  [[PDF]]() 
 
-1. **Updating....** * et al, .*  [[PDF]]() 
+1. **Insights on Representational Similarity in Neural Networks with Canonical Correlation.** *Ari S. Morcos et al, NeurIPS 2018.*  [[PDF]](https://dl.acm.org/doi/pdf/10.5555/3327345.3327475) 
 
-1. **Updating....** * et al, .*  [[PDF]]() 
+1. **Similarity of Neural Network Representations Revisited** *Simon Kornblith. et al, ICML 2019.*  [[PDF]](https://proceedings.mlr.press/v97/kornblith19a/kornblith19a.pdf) 
 
-1. **Updating....** * et al, .*  [[PDF]]() 
+1. **Similarity and Matching of Neural Network Representations.** *Adrián Csiszárik et al, NeurIPS 2021.*  [[PDF]](https://openreview.net/pdf?id=aedFIIRRfXr) 
 
-1. **Updating....** * et al, .*  [[PDF]]() 
+1. **On Linear Identifiability of Learned Representations.** *Geoffrey Roeder et al, ICML 2021.*  [[PDF]](https://proceedings.mlr.press/v139/roeder21a/roeder21a.pdf) 
+
+1. **Do Self-Supervised and Supervised Methods Learn Similar Visual Representations?** *Tom George Grigg et al, arXiv 2021.*  [[PDF]](https://arxiv.org/pdf/2110.00528) 
+
+1. **Revisiting Model Stitching to Compare Neural Representations.** *Yamini Bansal et al, NeurIPS 2021.*  [[PDF]](https://arxiv.org/pdf/2106.07682) 
+
+1. **Emerging Properties in Self-Supervised Vision Transformers.** *Mathilde Caron et al, ICCV 2021.*  [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.pdf) 
+
+1. **Do Vision Transformers See Like Convolutional Neural Networks?** *Maithra Raghu et al, NeurIPS 2021.*  [[PDF]](https://arxiv.org/pdf/2108.08810) 
+
+1. **Relative Representations Enable Zero-Shot Latent Space Communication.** *Luca Moschella et al, ICLR 2023.*  [[PDF]](https://arxiv.org/pdf/2209.15430) 
+
+1. **Objectives Matter: Understanding the Impact of Self-Supervised Objectives on Vision Transformer Representations.** *Shashank Shekhar et al, arXiv 2023.*  [[PDF]](https://arxiv.org/pdf/2304.13089) 
+
+1. **Rosetta Neurons: Mining the Common Units in a Model Zoo.** *Amil Dravid et al, ICCV 2023.*  [[PDF]](https://arxiv.org/pdf/2306.09346) 
+
+1. **DINOv2: Learning Robust Visual Features without Supervision.** *Maxime Oquab et al, TMLR 2024.*  [[PDF]](https://arxiv.org/pdf/2304.07193) 
+
+1. **ZipIt! Merging Models from Different Tasks without Training.** *George Stoica et al, ICLR 2024.*  [[PDF]](https://arxiv.org/pdf/2305.03053) 
+
+1. **The Platonic Representation Hypothesis.** *Minyoung Huh et al, ICML 2024.*  [[PDF]](https://arxiv.org/pdf/2405.07987) 
+
+1. **How Do the Architecture and Optimizer Affect Representation Learning? On the Training Dynamics of Representations in Deep Neural Networks.** *Yuval Sharon et al, arXiv 2025.*  [[PDF]](https://arxiv.org/pdf/2405.17377) 
+
+1. **Dual Diffusion for Unified Image Generation and Understanding.** *Zijie Li et al, CVPR 2025.*  [[PDF]](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Dual_Diffusion_for_Unified_Image_Generation_and_Understanding_CVPR_2025_paper.pdf) 
+
+1. **Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think.** *Sihyun Yu et al, ICLR 2025.*  [[PDF]](https://arxiv.org/pdf/2410.06940) 
+
+
 
 
 <a name="RCSML" />
 
 ### Language
 
-1. **Updating....** * et al, .*  [[PDF]]() 
+1. **Updating.** * et al, .*  [[PDF]]() 
+
+1. **Updating.** * et al, .*  [[PDF]]() 
+
+1. **Updating.** * et al, .*  [[PDF]]() 
+
+1. **Updating.** * et al, .*  [[PDF]]() 
+
+1. **Updating.** * et al, .*  [[PDF]]() 
+
+1. **Updating.** * et al, .*  [[PDF]]() 
+
 
 <a name="RCSMS" />
 
 ### Speech
 
-1. **Updating....** * et al, .*  [[PDF]]() 
+1. **Updating.** * et al, .*  [[PDF]]() 
+
+1. **Updating.** * et al, .*  [[PDF]]() 
+
+1. **Updating.** * et al, .*  [[PDF]]() 
+
 
 <a name="RCAM" />
 
 ## Representation Convergence within Across-Modalities [[Back to Top]](#)
 
-1. **Updating....** * et al, .*  [[PDF]]() 
+1. **Updating.** * et al, .*  [[PDF]]() 
+
+1. **Updating.** * et al, .*  [[PDF]]() 
+
+1. **Updating.** * et al, .*  [[PDF]]() 
+
 
 <a name="RCBS" />
 
 ## Representation Convergence in Biological Systems [[Back to Top]](#)
 
-1. **Updating....** * et al, .*  [[PDF]]() 
+1. **Updating.** * et al, .*  [[PDF]]() 
+
+1. **Updating.** * et al, .*  [[PDF]]() 
+
+1. **Updating.** * et al, .*  [[PDF]]() 
+
 
 <a name="OpenQ" />
 
@@ -224,7 +277,7 @@ If you find our survey useful, please consider citing:
   author={Lu, Jianglin and Wang, Hailing and Xu, Yi and Wang, Yizhou and Yang, Kuo and Fu, Yun},
   booktitle={Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing, {EMNLP} 2025},
   publisher={Association for Computational Linguistics},
-  year={2024}
+  year={2025}
 }
 ```
 
