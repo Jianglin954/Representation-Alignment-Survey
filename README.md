@@ -15,12 +15,12 @@ This is the repository for the survery paper: [Representation Potentials of Foun
   - [Speech Foundation Models](#SFMs)
   - [Multimodal Foundation Models](#MFMs)
 - [Alignment Metrics](#ALME)
-- [Representation Convergence within Single-Modality](#RCSM)
-  - [Vision](#RCSMV)
-  - [Language](#RCSML)
-  - [Speech](#RCSMS)
-- [Representation Convergence within Across-Modalities](#RCAM)
-- [Representation Convergence in Biological Systems](#RCBS)
+- [Representation Potentials of Foundation Models for Alignment](#RCSM)
+  - [Representation Alignment in Vision](#RCSMV)
+  - [Representation Alignment in Language](#RCSML)
+  - [Representation Alignment in Speech](#RCSMS)
+  - [Representation Alignment Across Modalities](#RCAM)
+  - [Representation Alignment with Neuroscience](#RCBS)
 - [Open Questions](#OpenQ)
 
 
@@ -152,12 +152,12 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 
 <a name="RCSM" />
 
-## Representation Convergence within Single-Modality [[Back to Top]](#)
+## Representation Potentials of Foundation Models for Alignment [[Back to Top]](#)
 
 
 <a name="RCSMV" />
 
-### Vision
+### Representation Alignment in Vision
 
 1. **Understanding Image Representations by Measuring Their Equivariance and Equivalence.** *Karel Lenc et al, CVPR 2015.*  [[PDF]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Lenc_Understanding_Image_Representations_2015_CVPR_paper.pdf) 
 
@@ -207,7 +207,7 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 
 <a name="RCSML" />
 
-### Language
+### Representation Alignment in Language
 
 1. **Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers.** *Jason Phang et al, arXiv 2021.*  [[PDF]](https://aclanthology.org/2021.blackboxnlp-1.42.pdf) 
 
@@ -241,7 +241,7 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 
 <a name="RCSMS" />
 
-### Speech
+### Representation Alignment in Speech
 
 1. **Insights on Neural Representations for End-to-End Speech Recognition.** *Anna Ollerenshaw et al, Interspeech 2021.*  [[PDF]](https://arxiv.org/pdf/2205.09456) 
 
@@ -261,7 +261,7 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 
 <a name="RCAM" />
 
-## Representation Convergence within Across-Modalities [[Back to Top]](#)
+### Representation Alignment Across Modalities [[Back to Top]](#)
 
 1. **Linearly Mapping from Image to Text Space.** *Jack Merullo et al, ICLR 2023.*  [[PDF]](https://arxiv.org/pdf/2209.15162) 
 
@@ -281,7 +281,7 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 
 <a name="RCBS" />
 
-## Representation Convergence in Biological Systems [[Back to Top]](#)
+### Representation Alignment with Neuroscience [[Back to Top]](#)
 
 1. **Evaluation of the Hierarchical Correspondence between the Human Brain and Artificial Neural Networks: A Review.** *Trung Quang Pham et al, Biology, 2023.*  [[PDF]](https://www.mdpi.com/2079-7737/12/10/1330) 
 
