@@ -21,7 +21,7 @@ This is the repository for the survery paper: [Representation Potentials of Foun
   - [Representation Alignment in Speech](#RCSMS)
   - [Representation Alignment Across Modalities](#RCAM)
   - [Representation Alignment with Neuroscience](#RCBS)
-- [Open Questions](#OpenQ)
+- [Factors Driving Representation Potential for  Alignment](#Facts)
 
 
 
@@ -132,6 +132,8 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 
 1. **Insights on Representational Similarity in Neural Networks with Canonical Correlation.** *Ari S. Morcos et al, NeurIPS 2018.*  [[PDF]](https://dl.acm.org/doi/pdf/10.5555/3327345.3327475) 
 
+1. **Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation.** *Liwei Wang et al, NeurIPS 2018.*  [[PDF]](https://arxiv.org/pdf/1810.11750) 
+
 1. **Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors.** *Laleh Haghverdi et al, Nature Biotechnology 2018.*  [[PDF]](https://www.nature.com/articles/nbt.4091.pdf) 
 
 1. **Similarity of Neural Network Representations Revisited** *Simon Kornblith. et al, ICML 2019.*  [[PDF]](https://proceedings.mlr.press/v97/kornblith19a/kornblith19a.pdf) 
@@ -146,8 +148,11 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 
 1. **Reliability of CKA as a Similarity Measure in Deep Learning.** *MohammadReza Davari et al, ICLR 2023.*  [[PDF]](https://openreview.net/pdf?id=8HRvyxc606) 
 
-1. **Similarity of Neural Network Models: A Survey of Functional and Representational Measures.** *Max Klabunde et al, arXiv 2025.*  [[PDF]](https://arxiv.org/pdf/2305.06329) 
+1. **Understanding the Inner Workings of Language Models Through Representation Dissimilarity.** *Davis Brown et al, EMNLP 2023.*  [[PDF]](https://arxiv.org/pdf/2310.14993) 
 
+1. **What Representational Similarity Measures Imply about Decodable Information.** *Sarah E. Harvey et al, arXiv 2024.*  [[PDF]](https://arxiv.org/pdf/2411.08197) 
+
+1. **Similarity of Neural Network Models: A Survey of Functional and Representational Measures.** *Max Klabunde et al, arXiv 2025.*  [[PDF]](https://arxiv.org/pdf/2305.06329) 
 
 
 <a name="RCSM" />
@@ -297,15 +302,36 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 
 1. **Brain-Model Evaluations Need the NeuroAI Turing Test.** *Jenelle Feather et al, arXiv 2025.*  [[PDF]](https://arxiv.org/pdf/2502.16238) 
 
+
+
+
+
+<a name="Facts" />
+
+## Factors Driving Representation Potential for  Alignment
+
+1. **Scaling Laws for Neural Language Models.** *Jared Kaplan et al, arXiv 2020.*  [[PDF]](https://arxiv.org/pdf/2001.08361) 
+
+1. **Inductive Biases and Variable Creation in Self-Attention Mechanisms.** *Benjamin L. Edelman et al, ICML 2022.*  [[PDF]](https://proceedings.mlr.press/v162/edelman22a/edelman22a.pdf) 
+
+1. **Multitask Prompted Training Enables Zero-Shot Task Generalization.** *Victor Sanh et al, ICLR 2022.*  [[PDF]](https://openreview.net/pdf?id=9Vrb9D0WI4) 
+
+1. **Simplicity Bias in Transformers and their Ability to Learn Sparse Boolean Functions.** *Satwik Bhattamishra et al, ACL 2023.*  [[PDF]](https://aclanthology.org/2023.acl-long.317.pdf) 
+
+1. **Large language models converge toward human-like concept organization.** *Mathias Lykke Gammelgaard et al, arXiv 2023.*  [[PDF]](https://arxiv.org/pdf/2308.15047) 
+
+1. **Multilingual Diversity Improves Vision-Language Representations.** *Thao Nguyen et al, NeurIPS 2024.*  [[PDF]](https://openreview.net/pdf?id=1WtEqReCyS) 
+
+1. **Scaling Instruction-Finetuned Language Models.** *Hyung Won Chung et al, JMLR 2024.*  [[PDF]](https://jmlr.org/papers/volume25/23-0870/23-0870.pdf) 
+
+1. **Instruction Diversity Drives Generalization To Unseen Tasks.** *Dylan Zhang et al, arXiv 2024.*  [[PDF]](https://arxiv.org/pdf/2402.10891) 
+
+1. **Objective drives the consistency of representational similarity across datasets.** *Laure Ciernik et al, ICML 2025.*  [[PDF]](https://arxiv.org/pdf/2411.05561) 
+
+1. **Relational reasoning and inductive bias in transformers trained on a transitive inference task.** *Jesse Geerts et al, arXiv 2025.*  [[PDF]](https://www.arxiv.org/pdf/2506.04289) 
+
+
 1. **Updating.** * et al, .*  [[PDF]]() 
-
-<a name="OpenQ" />
-
-## Open Questions [[Back to Top]](#)
-
-
-1. **Updating....** * et al, .*  [[PDF]]() 
-
 
 
 
@@ -315,13 +341,11 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 ## 📝 Citation
 
 If you find our survey useful, please consider citing:
-``` bib file
-@article{lu2025representations,
-  title={Representation Potentials of Foundation Models for Multimodal Alignment: A Survey},
-  author={Lu, Jianglin and Wang, Hailing and Xu, Yi and Wang, Yizhou and Yang, Kuo and Fu, Yun},
-  booktitle={Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing, {EMNLP} 2025},
-  publisher={Association for Computational Linguistics},
-  year={2025}
-}
-```
-
+    @inproceedings{
+      lu2025representations,
+      title={Representation Potentials of Foundation Models for Multimodal Alignment: A Survey},
+      author={Lu, Jianglin and Wang, Hailing and Xu, Yi and Wang, Yizhou and Yang, Kuo and Fu, Yun},
+      booktitle={Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing, {EMNLP} 2025},
+      publisher={Association for Computational Linguistics},
+      year={2025}
+    }
