@@ -12,7 +12,7 @@ This is the repository for the survery paper: [Representation Potentials of Foun
   <img src="./cka_origin_nocaps_linear_sparse50.png" width="45%">
 </div>
 
-<p align="center"><b>Caption.</b> CKA scores between different models computed on MS-COCO and NOCAPS datasets.</p>
+<p align="center"><b>Figure 1.</b> CKA scores between different models computed on MS-COCO and NOCAPS datasets.</p>
 
 
 ## Contents
