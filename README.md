@@ -4,7 +4,7 @@
 [![Awesome Representation Alignment](https://awesome.re/badge.svg)](https://awesome.re)
 ![Paper Reading](https://img.shields.io/badge/Multimodal_Alignment-blue)
 
-This is the repository for the survery paper: [Representation Potentials of Foundation Models for Multimodal Alignment: A Survey](). The collection will be continuously updated, so star (🌟) & stay tuned. Any suggestions and comments are welcome (jianglinlu@outlook.com). 
+This is the repository for the survery paper: [Representation Potentials of Foundation Models for Multimodal Alignment: A Survey](https://arxiv.org/abs/2510.05184). The collection will be continuously updated, so star (🌟) & stay tuned. Any suggestions and comments are welcome (jianglinlu@outlook.com). 
 
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
