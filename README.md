@@ -7,8 +7,13 @@
 This is the repository for the survery paper: [Representation Potentials of Foundation Models for Multimodal Alignment: A Survey](). The collection will be continuously updated, so star (🌟) & stay tuned. Any suggestions and comments are welcome (jianglinlu@outlook.com). 
 
 
-<img src="./cka_origin_coco_linear_sparse50.png">
-<img src="./cka_origin_nocaps_linear_sparse50.png">
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="./cka_origin_coco_linear_sparse50.png" width="45%">
+  <img src="./cka_origin_nocaps_linear_sparse50.png" width="45%">
+</div>
+
+<p align="center"><b>Caption.</b> CKA scores between different models computed on MS-COCO and NOCAPS datasets.</p>
+
 
 ## Contents
 - [Foundation Models](#FM)
