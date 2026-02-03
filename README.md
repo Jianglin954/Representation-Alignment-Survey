@@ -290,7 +290,7 @@ This is the repository for the survery paper: [Representation Potentials of Foun
 1. **Assessing and Learning Alignment of Unimodal Vision and Language Models.** *Le Zhang et al, CVPR 2025.*  [[PDF]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Assessing_and_Learning_Alignment_of_Unimodal_Vision_and_Language_Models_CVPR_2025_paper.pdf) 
 
 
-1. **The Indra Representation Hypothesis.** *Jianglin Lu et al, NeurIPS 2025.*  [[PDF]](https://neurips.cc/virtual/2025/poster/119249)
+1. **The Indra Representation Hypothesis for Multimodal Alignment.** *Jianglin Lu et al, NeurIPS 2025.*  [[PDF]](https://neurips.cc/virtual/2025/poster/119249)
 
 
 
@@ -360,7 +360,7 @@ If you find our survey useful, please consider citing:
     }
 
     @inproceedings{Jianglin2025,
-      title={The Indra Representation Hypothesis},
+      title={The Indra Representation Hypothesis for Multimodal Alignment},
       author={Lu, Jianglin and Wang, Hailing and Yang, Kuo and Zhang, Yitian and Jenni, Simon and Fu, Yun},
       booktitle={Advances in Neural Information Processing Systems},
       year={2025}
